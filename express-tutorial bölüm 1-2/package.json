@@ -1,0 +1,14 @@
+{
+  "name": "express-tutortial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js "
+  },
+  "author": "Aktila",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
